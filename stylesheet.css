@@ -1,0 +1,32 @@
+
+  .logobox { text-align: center; margin-top: 10%;}
+  
+  .Bttn {font-family: Arial; margin: 13px; padding: 12px; background-color: #e6ffff;border: none; font-size: 15px; }
+  .Bttn:hover{background-color: #ccffff; cursor: pointer;}
+    
+    .imgBttn {font-family: Arial;  margin-top: -2px; padding: 12px; margin-left: 15px;
+      background-color: #e6ffff;border: none; font-size: 15px; position: absolute; }
+  .imgBttn:hover{background-color: #ccffff; cursor: pointer;}
+    
+  .pagerefs{ text-align: right; background-color: transparent; padding: 6px; }
+.pagerefsOnAdvPge{ text-align: right; background-color: #f2f2f2; padding-top: 15px; height: 43px;}
+
+  .hlinks:hover{text-decoration: underline;}
+  .hlinks{text-decoration: none; margin: 10px;}
+
+
+  .searchbox {width: 500px;height: 30px; background-color: #e6ffff; border: transparent; outline-color: #80b3ff; }
+
+  .mainsearchbox {width: 500px;  border-radius: 15px;height: 30px; background-color: #fffff2; outline: none;}
+  .imgsearchbox {width: 500px;  border-radius: 15px;height: 30px; background-color: #fffff2; outline: none;}
+  
+  .theader{padding: 20px; color: red; font-size: 20px; text-align: left; font-family: Arial;}
+  
+  table{width: 100%; border-spacing: 15px; margin: 8px; }
+  
+  .advBtn{font-family: Arial; background-color: #6666ff; color: white; padding: 8px; font-size: 12px;  font:bold;
+   border: transparent;padding-left: 12px; padding-right: 12px;}
+  
+  .advBtn:hover{background-color: #4d4dff; cursor: pointer; }
+
+  td{text-align: left;}
